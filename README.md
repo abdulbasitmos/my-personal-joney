@@ -1,4 +1,4 @@
-# my--personal-joney
+# my--personal-journey
 
 ## what i want to learn
   i want to learn more about website development and software development 
